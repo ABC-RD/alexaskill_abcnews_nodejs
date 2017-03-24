@@ -1,0 +1,15 @@
+getNews news briefing
+getNews tell me the news
+getNews tell the news
+getNews get the news
+getNews what's the news
+getNews for a summary
+getNews for today's headlines
+getNews for ninety seconds news
+getNewsRead for some {news_categoryslot} news
+getNewsRead what's the {news_categoryslot} news
+getNewsRead tell me some {news_categoryslot} news
+getNewsRead tell some {news_categoryslot} news
+getNewsRead read the {news_categoryslot} news
+getNewsRead get the {news_categoryslot} news
+getNewsRead get me the {news_categoryslot} news
