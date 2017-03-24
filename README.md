@@ -30,3 +30,4 @@ git clone https://github.com/ABC-RD/alexaskill_abcnews_nodejs.git
 ## TODO
 1. At the moment, ABC content is hardcoded in the code. Next version will have live ABC content being pulled from wCMS or Terminus.
 2. Determine how we can pull the 90 seconds news segment (MP4 format) tp an audio format (MP3).
+3. Design UX. Workflow. Add more intents....
